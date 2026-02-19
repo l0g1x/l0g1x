@@ -7,7 +7,7 @@
 # Krystian Gebis
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Agent+Orchestration;Full+Stack+Development;Context+Engineering;Not+an+agent+(but+written+in+binary)&font=Fira+Code&center=true&width=500&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Agent+Orchestration;Full+Stack+Development;Context+Engineering;Not+an+agent+(yet)&font=Fira+Code&center=true&width=500&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
 </a>
 
 <br/>
