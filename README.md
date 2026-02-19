@@ -166,9 +166,73 @@
   </picture>
 </p>
 
+<!-- OPTION 7: Trophy Display (github-profile-trophy) -->
+<!-- Gamified achievement trophies for Stars, Commits, PRs, Issues, Followers, Repos -->
+### Option 7: Trophy Display
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=l0g1x&theme=darkhub&no-frame=true&column=-1&margin-w=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=l0g1x&theme=flat&no-frame=true&column=-1&margin-w=8" />
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=l0g1x&theme=darkhub&no-frame=true&column=-1&margin-w=8" alt="Trophy Display" />
+  </picture>
+</p>
+
+<!-- OPTION 8: Trophy Display (onedark, 3-column) -->
+### Option 8: Trophy Display (compact)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=l0g1x&theme=onedark&no-frame=true&column=4&margin-w=12&margin-h=12" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=l0g1x&theme=flat&no-frame=true&column=4&margin-w=12&margin-h=12" />
+    <img width="70%" src="https://github-profile-trophy.vercel.app/?username=l0g1x&theme=onedark&no-frame=true&column=4&margin-w=12&margin-h=12" alt="Trophy Display (compact)" />
+  </picture>
+</p>
+
+<!-- OPTION 9: Contributor Stats (github-contributor-stats) -->
+<!-- Shows which external repos you've contributed to -->
+### Option 9: Contributor Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=l0g1x&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=l0g1x&limit=5&theme=default&combine_all_yearly_contributions=true&hide_border=true" />
+    <img width="50%" src="https://github-contributor-stats.vercel.app/api?username=l0g1x&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" alt="Contributor Stats" />
+  </picture>
+</p>
+
+<!-- OPTION 10: Activity Line Graph (dracula theme) -->
+### Option 10: Activity Line Graph (dracula)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=l0g1x&theme=dracula&hide_border=true&area=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=l0g1x&theme=minimal&area=true&hide_border=true" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=l0g1x&theme=dracula&hide_border=true&area=true" alt="Activity Line Graph (dracula)" />
+  </picture>
+</p>
+
+<!-- OPTION 11: Streak Stats (tokyonight) + Trophy combo -->
+### Option 11: Streak + Trophies Combo
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=l0g1x&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=l0g1x&theme=default&hide_border=true" />
+    <img width="55%" src="https://streak-stats.demolab.com/?user=l0g1x&theme=tokyonight&hide_border=true" alt="Streak Stats (tokyonight)" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=l0g1x&theme=tokyonight&no-frame=true&column=-1&margin-w=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=l0g1x&theme=flat&no-frame=true&column=-1&margin-w=8" />
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=l0g1x&theme=tokyonight&no-frame=true&column=-1&margin-w=8" alt="Trophies (tokyonight)" />
+  </picture>
+</p>
+
 <!-- NOTE: Snake animation & isometric calendar require GitHub Actions setup -->
-<!-- OPTION 7: Snake animation (Platane/snk) - needs GH Action, not shown here -->
-<!-- OPTION 8: Isometric 3D calendar (lowlighter/metrics) - needs GH Action, not shown here -->
+<!-- Snake animation (Platane/snk) - needs GH Action, can set up on request -->
+<!-- Isometric 3D calendar (lowlighter/metrics) - needs GH Action, can set up on request -->
 
 ---
 
