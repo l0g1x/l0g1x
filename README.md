@@ -90,13 +90,85 @@
 
 ## GitHub Activity
 
+<!-- OPTION 1: Activity Line Graph (github-readme-activity-graph) -->
+<!-- Clean line/area chart of recent contributions -->
+### Option 1: Activity Line Graph
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=l0g1x&theme=github-compact&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area_color=1f6feb&area=true&hide_border=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=l0g1x&theme=github-compact&area=true&hide_border=true" />
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=l0g1x&theme=github-compact&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area_color=1f6feb&area=true&hide_border=true" alt="GitHub Activity Graph" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=l0g1x&theme=github-compact&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area_color=1f6feb&area=true&hide_border=true" alt="Activity Line Graph" />
   </picture>
 </p>
+
+<!-- OPTION 2: Streak Stats (github-readme-streak-stats) -->
+<!-- Total contributions, current streak, longest streak -->
+### Option 2: Streak Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=l0g1x&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=6e7681" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=l0g1x&theme=default&hide_border=true" />
+    <img width="60%" src="https://streak-stats.demolab.com/?user=l0g1x&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=6e7681" alt="Streak Stats" />
+  </picture>
+</p>
+
+<!-- OPTION 3: Activity Line Graph (tokyo-night theme) -->
+<!-- Same tool, different aesthetic -->
+### Option 3: Activity Line Graph (tokyo-night)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=l0g1x&theme=tokyo-night&hide_border=true&area=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=l0g1x&theme=minimal&area=true&hide_border=true" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=l0g1x&theme=tokyo-night&hide_border=true&area=true" alt="Activity Line Graph (tokyo-night)" />
+  </picture>
+</p>
+
+<!-- OPTION 4: Streak Stats + Activity Graph combo -->
+### Option 4: Streak + Line Graph Combo
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=l0g1x&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=6e7681" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=l0g1x&theme=default&hide_border=true" />
+    <img width="60%" src="https://streak-stats.demolab.com/?user=l0g1x&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=6e7681" alt="Streak Stats" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=l0g1x&theme=github-compact&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area_color=1f6feb&area=true&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=l0g1x&theme=github-compact&area=true&hide_border=true" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=l0g1x&theme=github-compact&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area_color=1f6feb&area=true&hide_border=true" alt="Activity Line Graph" />
+  </picture>
+</p>
+
+<!-- OPTION 5: Activity Line Graph (react-dark theme) -->
+### Option 5: Activity Line Graph (react-dark)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=l0g1x&theme=react-dark&hide_border=true&area=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=l0g1x&theme=github-light&area=true&hide_border=true" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=l0g1x&theme=react-dark&hide_border=true&area=true" alt="Activity Line Graph (react-dark)" />
+  </picture>
+</p>
+
+<!-- OPTION 6: Streak Stats (radical theme) -->
+### Option 6: Streak Stats (radical)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=l0g1x&theme=radical&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=l0g1x&theme=default&hide_border=true" />
+    <img width="60%" src="https://streak-stats.demolab.com/?user=l0g1x&theme=radical&hide_border=true" alt="Streak Stats (radical)" />
+  </picture>
+</p>
+
+<!-- NOTE: Snake animation & isometric calendar require GitHub Actions setup -->
+<!-- OPTION 7: Snake animation (Platane/snk) - needs GH Action, not shown here -->
+<!-- OPTION 8: Isometric 3D calendar (lowlighter/metrics) - needs GH Action, not shown here -->
 
 ---
 
