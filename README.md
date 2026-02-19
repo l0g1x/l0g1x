@@ -63,8 +63,7 @@
 | Project | Lang | What it does |
 |:--------|:----:|:-------------|
 | [**terminal**](https://github.com/l0g1x/terminal) | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) | Terminal file browser with split-pane layout, mouse support, and markdown rendering -- built on FrankenTUI |
-| [**BCC**](https://github.com/l0g1x/bcc) | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) | Beads Compiler Collection -- tooling for the beads agent workflow ecosystem |
-| [**bcc-mono**](https://github.com/l0g1x) | ![TypeScript](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | Monorepo for full-stack applications with agent orchestration at the core |
+| [**bcc**](https://github.com/l0g1x/bcc) | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) | Beads Compiler Collection -- tooling for the beads agent workflow ecosystem |
 
 ---
 
