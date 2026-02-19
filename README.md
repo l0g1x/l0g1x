@@ -90,7 +90,13 @@
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/l0g1x)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=l0g1x&theme=github-compact&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area_color=1f6feb&area=true&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=l0g1x&theme=github-compact&area=true&hide_border=true" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=l0g1x&theme=github-compact&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area_color=1f6feb&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  </picture>
+</p>
 
 ---
 
